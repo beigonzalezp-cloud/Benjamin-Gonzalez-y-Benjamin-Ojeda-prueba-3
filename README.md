@@ -54,6 +54,10 @@ En la ventana de Servicios (services.msc) se verificó el estado de los servicio
 
 Comprobación del sitio web desde un navegador externo al de la maquina virtual, se visualiza la página de bienvenida con el nombre del estudiante (Benjamín González Zalesyojeeda) y el logo de Duoc UC, demostrando que el servidor web funciona correctamente en windows server 2019. La imagen está alojada localmente en el servidor, cumpliendo con el requisito
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc9788e0-2a84-472a-acdc-1d2820c1c416" />
+
+
+Se procedió a la instalación y configuración del servicio FTP en el servidor Windows Server 2019 a través del Administrador de IIS. Se creó el sitio FTP con el nombre ditio FTP Benjamin Gonzalez y Ojeda y se definió la ruta física C:\inetpub\ftproot como directorio raíz para el acceso anónimo. Se habilitó la autenticación anónima y se configuraron permisos de lectura para todos los usuarios anónimos, según lo solicitado en la evaluación.
 
 
 
