@@ -38,5 +38,24 @@ Ventana de Firewall mostrando la nueva regla creada
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/073afc5a-2de0-4c17-91c6-1362edbb8c54" />
 
+Se logro conectar por acceso remoto la maquina virtual a una fisica
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c00a07e7-3a74-4edf-8267-613dc5a3ca84" />
+
+se instalo el rol Web Server - IIS / HTTP+FTP 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/037ed3a7-3106-472b-811e-ffd73e1aa2c6" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b8cdfc7-79e5-459c-8c16-690c9de1f019" />
+
+En la ventana de Servicios (services.msc) se verificó el estado de los servicios correspondientes a los roles instalados en Windows Server 2019. Se localizaron y configuraron los servicios 'World Wide Web Publishing Service' (responsable del servicio HTTP/IIS) y 'Servicio FTP de Microsoft
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f10ac66-6874-4a2e-8eb2-ff2850843069" />
+
+Comprobación del sitio web desde un navegador externo al de la maquina virtual, se visualiza la página de bienvenida con el nombre del estudiante (Benjamín González Zalesyojeeda) y el logo de Duoc UC, demostrando que el servidor web funciona correctamente en windows server 2019. La imagen está alojada localmente en el servidor, cumpliendo con el requisito
+
+
+
+
 
 
