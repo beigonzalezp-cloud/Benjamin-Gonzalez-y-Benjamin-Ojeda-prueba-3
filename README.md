@@ -26,4 +26,17 @@ El servicio HTTPD se instalo correctamente en la maquina virtual y esta corriend
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/927835c9-dba7-45e6-a156-d7a2514039e8" />
 
-Comprobación del sitio web desde un navegador externo al de la maquina virtual, se visualiza la página de bienvenida con el nombre del estudiante 'Benjamín González Zalesyojeeda' y el logo de Duoc UC, demostrando que el servidor web Apache (httpd) funciona correctamente en RHEL 9. La imagen está alojada localmente en el servidor, cumpliendo con el requisito
+Comprobación del sitio web desde un navegador externo al de la maquina virtual, se visualiza la página de bienvenida con el nombre del estudiante (Benjamín González Zalesyojeeda) y el logo de Duoc UC, demostrando que el servidor web Apache (httpd) funciona correctamente en RHEL 9. La imagen está alojada localmente en el servidor, cumpliendo con el requisito
+
+<img width="427" height="440" alt="image" src="https://github.com/user-attachments/assets/e9206227-e079-43b5-9e0a-33163986f88e" />
+
+Creacion maquina virual windows server
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93144033-feeb-4382-8e4c-53f13e09c9fd" />
+
+Ventana de Firewall mostrando la nueva regla creada
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/073afc5a-2de0-4c17-91c6-1362edbb8c54" />
+
+
+
